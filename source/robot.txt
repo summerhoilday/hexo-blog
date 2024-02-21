@@ -1,0 +1,8 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+
+Sitemap: https://likegpt.netlify.app/sitemap.xml
+

@@ -597,8 +597,8 @@ google_adsense:
 # --------------------------------------
 
 site_verification:
-# - name: google-site-verification
-#   content: xxxxxx
+ - name: google-site-verification
+   content: duhaMEIkkhD4IpsK0yRuny_HzX1-4bkyUdmw9f2feZQ
 # - name: baidu-site-verification
 #   content: xxxxxxx
 
